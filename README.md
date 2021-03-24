@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories: \
-[Succesful Game Playtrough with all features implemented]( https://photos.app.goo.gl/12q32pPr2x5qLMFb9) \
-[Loosing Game on purpose](https://photos.app.goo.gl/MPSQDkNVs2wKhsQT9)
+[Succesful Game Playtrough with all features implemented](https://i.imgur.com/t5BEyz5.gif) \
+[Loosing Game on purpose](https://i.imgur.com/TQQGSeZ.gif)
 
 
 ## Reflection Questions
